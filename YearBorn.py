@@ -6,7 +6,7 @@ age = "What is your age? "
 askAge = input(age)
 a = int(askAge)
 
-hi = "Hi, " + askName + "!"
+hi = "Hello, " + askName + "!"
 
 currentYear = 2023
 year = currentYear - a 
